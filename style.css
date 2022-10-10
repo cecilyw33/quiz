@@ -1,0 +1,57 @@
+.container {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  background: white;
+  border-radius: 5px;
+  padding: 35px;
+  opacity: 75%;
+}
+
+.header {
+  background: url(header.jpg) ;
+  max-width: 950px;
+  width: 75%;
+  margin: auto;
+  position: relative;
+  padding:  20px;
+  margin-bottom: 20px;
+  text-align: center;
+  height: 300px;
+  border-radius: 20px;
+
+}
+
+input[type="radio"]{
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
+body {
+  background: #71797E;
+}
+
+.center {
+  text-align: center;
+}
+
+.radio-wrap {
+  text-align: right;
+  position: relative;
+  width: fit-content;
+  height: 60px;
+  display: inline-block;
+  float: left;
+  overflow-wrap: break-all;
+}
+
+.space {
+  padding-top: 20px;
+}
+
+h4 {
+  font-family: 'Special Elite';
+}
+
+label {
+  font-family: 'Noto Serif Gujarati'
+}
